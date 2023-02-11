@@ -136,8 +136,7 @@
     <ViewFlipper
         android:id="@+id/viewFlipper"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
-    </ViewFlipper>
+        android:layout_height="match_parent"></ViewFlipper>
 
 
 
